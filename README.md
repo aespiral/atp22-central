@@ -11,7 +11,7 @@
 | 014 | `fizzbuzz` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
 | 021 | `compras` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
 | 022 | `ac` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
-| 023 | `cpf` | Fixação | EF 06 Laços de laços | 19/05/2022 | 26/05/2022 | https://github.com/aespiral/023-cpf.git |
+| 023 | `cpf` | Fixação | EF 06 Laços de laços | 19/05/2022 | 26/05/2022 | https://github.com/aespiral/val-cpf.git |
 | 031 | `sucessor` | Fixação | EF 05 todos/existe | 09/05/2022 | 18/05/2022 | | 
 | 032 | `ascendente` | Fixação | EF 05 todos/existe | 09/05/2022 | 18/05/2022 | | 
 | 301 | `raiz` | Nível de Prova | ENP Laços | 21/03/2022 | | | 
