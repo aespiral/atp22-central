@@ -11,9 +11,13 @@
 | 014 | `fizzbuzz` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
 | 021 | `compras` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
 | 022 | `ac` | Fixação | EF 04 Arrays e planilhas | 03/05/2022 | 11/05/2022 | | 
-| 023 | `cpf` | Fixação | EF 06 Laços de laços | 19/05/2022 | 26/05/2022 | https://github.com/aespiral/val-cpf.git |
+| 023 | `cpf` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | https://github.com/aespiral/val-cpf.git |
 | 031 | `sucessor` | Fixação | EF 05 todos/existe | 09/05/2022 | 18/05/2022 | | 
 | 032 | `ascendente` | Fixação | EF 05 todos/existe | 09/05/2022 | 18/05/2022 | | 
+| 041 | `conjuntos` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | |
+| 042 | `tabelas` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | |
+| 043 | `sat` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | |
+| 051 | `campo_minado` | Fixação | EF 06 (Matrizes) | 25/06/2022 | 07/07/2022 | |
 | 301 | `raiz` | Nível de Prova | ENP Laços | 21/03/2022 | | | 
 | 302 | `mdc` | Nível de Prova | ENP Laços | 21/03/2022 | | | 
 | 321 | `binario` | Nível de Prova | ENP 04 Arrays | 03/05/2022 | | | 
