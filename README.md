@@ -32,5 +32,5 @@
 | 341 | `primos` | Nível de Prova | ENP 06 07 09 (arrays de arrays) | 27/06/2022 | | |
 | 351 | `clareira` | Nível de Prova | ENP 06 07 09 (matrizes) | 27/06/2022 | | |
 | 361 | `esmagamento` | Nível de Prova | ENP 08 (gera_arrays) | 17/07/2022 | | |
-| 362 | `primos` | Nível de Prova | ENP 08 (gera_arrays) | 17/07/2022 | | |
+| 362 | `convolução` | Nível de Prova | ENP 08 (gera_arrays) | 17/07/2022 | | |
 | 381 | `josephus` | Nível de Prova | ENP 06 07 09 (buffer circular) | 27/06/2022 | | |
