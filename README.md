@@ -18,6 +18,10 @@
 | 042 | `tabelas` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | |
 | 043 | `sat` | Fixação | EF 06 Laços de laços | 25/06/2022 | 07/07/2022 | |
 | 051 | `campo_minado` | Fixação | EF 06 (Matrizes) | 25/06/2022 | 07/07/2022 | |
+| 052 | `mais_percursos` | Fixação | EF 07 08 (percursos) | 17/07/2022 | 28/07/2022 | |
+| 061 | `maximos_locais` | Fixação | EF 07 08 (gera arrays) | 17/07/2022 | 28/07/2022 | |
+| 062 | `mult_matrizes` | Fixação | EF 07 08 (gera arrays) | 17/07/2022 | 28/07/2022 | |
+| 063 | `resumo` | Fixação | EF 07 08 (gera arrays) | 17/07/2022 | 28/07/2022 | |
 | 301 | `raiz` | Nível de Prova | ENP Laços | 21/03/2022 | | | 
 | 302 | `mdc` | Nível de Prova | ENP Laços | 21/03/2022 | | | 
 | 321 | `binario` | Nível de Prova | ENP 04 Arrays | 03/05/2022 | | | 
@@ -25,3 +29,8 @@
 | 323 | `ciclo` | Nível de Prova | ENP 04 Arrays | 03/05/2022 | | | 
 | 324 | `adivinha_o_no` | Nível de Prova | ENP 04 Arrays | 03/05/2022 | | | 
 | 325 | `adivinho_o_no` | Nível de Prova | ENP 04 Arrays | 03/05/2022 | | | 
+| 341 | `primos` | Nível de Prova | ENP 06 07 09 (arrays de arrays) | 27/06/2022 | | |
+| 351 | `clareira` | Nível de Prova | ENP 06 07 09 (matrizes) | 27/06/2022 | | |
+| 361 | `esmagamento` | Nível de Prova | ENP 08 (gera_arrays) | 17/07/2022 | | |
+| 362 | `primos` | Nível de Prova | ENP 08 (gera_arrays) | 17/07/2022 | | |
+| 381 | `josephus` | Nível de Prova | ENP 06 07 09 (buffer circular) | 27/06/2022 | | |
